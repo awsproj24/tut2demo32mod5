@@ -6,7 +6,7 @@ plugins {
     id("org.jetbrains.kotlin.plugin.compose")
 }
 
-group = "com.example.tut2demo32demo5grp"
+group = "com.example.tut2demo32mod5grp"
 version = "1.0-SNAPSHOT"
 
 repositories {
